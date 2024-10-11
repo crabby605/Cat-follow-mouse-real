@@ -13,7 +13,7 @@ This browser extension is designed to **add a cute cat!**. It enhances your brow
 
 Since this extension is not yet available on the browser's extension store, you can download it directly from the following link:
 
-[Download Browser Extension](#)
+[Download Browser Extension](https://github.com/crabby605/Cat-follow-mouse-real/raw/refs/heads/main/catFollowMouse.zip)
 
 ### Steps to Install
 
