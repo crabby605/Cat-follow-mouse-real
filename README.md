@@ -33,7 +33,9 @@ Since this extension is not yet available on the browser's extension store, you 
 If you would like to contribute to this project, feel free to fork the repository and submit a pull request.
 the project was orignally done by @adryd325's oneko.js which i made some mods to!.
 im working on some new feautres shuch as the ability to select cats and they randomly saying things!!.
-
+<!-- you can change the wording here if needed -->
+## Thanks to
+[oneko.js](https://github.com/adryd325/oneko.js)
 ## License
 
 This project is licensed under the [**MIT License**](LICENSE).
